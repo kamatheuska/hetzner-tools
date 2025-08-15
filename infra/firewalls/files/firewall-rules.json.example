@@ -1,0 +1,9 @@
+[
+  {
+    "direction": "in",
+    "description": "SSH",
+    "protocol": "tcp",
+    "port": "22",
+    "source_ips": []
+  }
+]

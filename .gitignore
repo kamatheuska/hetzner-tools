@@ -1,0 +1,2 @@
+infra/firewalls/files/*.json
+.env
