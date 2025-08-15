@@ -1,6 +1,13 @@
-
 # Hetzner Tools
+
 🛠️ A collection of utilities for managing Hetzner Cloud infrastructure.
+
+<br />
+<div align="center">
+  <img src="./assets/front.png" alt="Project Front" width="300" />
+</div>
+<br />
+
 
 ## Overview
 This project provides helpful scripts and utilities for managing Hetzner Cloud resources. Mostly for personal use, but decided to publish it, because why not :) 
@@ -27,4 +34,4 @@ Make sure you have the following tools installed:
 
 ## TODO
 
-- [] add logger level
+- [ ] add logger level
